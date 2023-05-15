@@ -34,3 +34,8 @@ p {
 .technologies {
   font-family: 'Secular One', sans-serif;
 }
+
+.address {
+  overflow: hidden;
+  white-space: nowrap;
+}
