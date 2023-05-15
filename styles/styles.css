@@ -1,7 +1,10 @@
-/* // Bulma installed
-@import "~bulma/bulma.sass"; */
+/* Bulma installed */
+@import "~bulma/bulma.sass";
 
 body {
   background-color: rgb(4, 4, 66);
+}
+
+h1, h2, p, ul {
   color: #ffffff;
 }
