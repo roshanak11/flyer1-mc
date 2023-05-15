@@ -6,3 +6,5 @@ https://fontawesome.com/start/confirm used for icons, added script in header of 
 used html symbols like location pindrop
 
 npm install bulma, import in header and css file
+
+import google fonts

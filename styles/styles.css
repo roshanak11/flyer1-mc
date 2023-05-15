@@ -8,3 +8,20 @@ body {
 h1, h2, p, ul {
   color: #ffffff;
 }
+
+h1 {
+  text-align: center;
+  font-family: 'Pathway Extreme', sans-serif
+}
+
+#slogan {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+p {
+  font-family: 'Pathway Extreme', sans-serif;
+}
+
+.technologies {
+  font-family: 'Secular One', sans-serif;
+}
