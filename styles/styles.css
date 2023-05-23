@@ -30,11 +30,12 @@ h1 {
 
 p {
   font-family: 'Pathway Extreme', sans-serif;
-  /* text-align: center; */
+  text-align: center;
 }
 
 .technologies {
   font-family: 'Secular One', sans-serif;
+  /* text-align: justify; */
 }
 
 .address {
