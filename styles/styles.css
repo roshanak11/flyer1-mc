@@ -8,6 +8,7 @@ header {
 body {
   /* background-color: rgb(4, 4, 66); */
   background-color: black;
+  margin-left: 2%;
 }
 
 h1, h2, p, ul {
@@ -41,6 +42,12 @@ p {
   font-family: 'Secular One', sans-serif;
   /* text-align: justify; */
 }
+
+.applications {
+  font-family: 'Pathway Extreme', sans-serif;
+  text-align: left;
+}
+
 
 .address {
   overflow: hidden;
