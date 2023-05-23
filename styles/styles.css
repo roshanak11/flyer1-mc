@@ -2,7 +2,8 @@
 @import "~bulma/bulma.sass";
 
 body {
-  background-color: rgb(4, 4, 66);
+  /* background-color: rgb(4, 4, 66); */
+  background-color: black;
 }
 
 h1, h2, p, ul {
@@ -29,6 +30,7 @@ h1 {
 
 p {
   font-family: 'Pathway Extreme', sans-serif;
+  /* text-align: center; */
 }
 
 .technologies {
