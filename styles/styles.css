@@ -11,7 +11,10 @@ body {
   margin-left: 2%;
 }
 
-h1, h2, p, ul {
+h1,
+h2,
+p,
+ul {
   color: #ffffff;
 }
 
@@ -49,6 +52,10 @@ p {
 }
 
 .back-services {
-  font-family: 'Secular One', sans-serif;
-  color: rgb(192, 19, 19);
+  font-family: 'Rajdhani', sans-serif;
+  /* color: rgb(130, 120, 120); */
+  color: rgb(129, 120, 120);
+  /* color: rgb(93, 90, 90); */
+  /* color: rgb(110, 101, 101); */
+  font-size: 23px;
 }
