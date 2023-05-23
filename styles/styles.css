@@ -1,6 +1,10 @@
 /* Bulma installed */
 @import "~bulma/bulma.sass";
 
+header {
+  padding-top: 1%;
+}
+
 body {
   /* background-color: rgb(4, 4, 66); */
   background-color: black;
